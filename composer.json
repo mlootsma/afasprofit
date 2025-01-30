@@ -1,5 +1,5 @@
 {
-    "name": "megachriz/afasprofit",
+    "name": "mlootsma/afasprofit",
     "description": "An API to connect to Afas Profit written in PHP.",
     "keywords": ["afas", "profit"],
     "license": "GPL-3.0",
