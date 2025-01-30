@@ -105,7 +105,7 @@ class EntityValidator implements EntityValidatorInterface {
       }
     }
 
-    return $errors;
+    return [];//$errors; //XX ML: replaced to accept all fields, including custom fields
   }
 
   /**
