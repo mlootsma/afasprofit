@@ -22,7 +22,7 @@
         "openlss/lib-array2xml": "~0.0",
         "drupal/core-plugin": "^9.0|^10.0|^11.0",
         "symfony/finder": ">=4.4 <8.0.0",
-        "hanneskod/classtools": "dev-master as 1.2.x-dev"
+        "hanneskod/classtools": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "~8.5",
